@@ -1,1 +1,2 @@
-console.log ("oi")
+let kaynan = "meu nome"
+console.log (kaynan)
